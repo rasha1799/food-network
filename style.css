@@ -63,6 +63,7 @@ margin-right: 400px;
 .disp-flex{
     display: flex;
     margin-top: 70px;
+    
 }
 .mera-box{
     box-shadow: 10px 10px 40px 25px gray;
@@ -90,5 +91,31 @@ margin-right: 400px;
 .d-chart{
     display: flex;
     background-image: url(images/shapes/comrawpixel2339972.jpg);
+    margin-bottom: 150px;
 
+}
+.fooddd{
+    display: flex;
+    margin-bottom: 150px;
+    
+}
+.one-forth{
+    width: 24%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+
+}
+.one-forth img{
+    width: 70%;
+    padding-top: 40px;
+    padding-left: 12px;
+}
+footer{
+    text-align: center;
+    color: ivory;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
