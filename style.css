@@ -14,6 +14,7 @@ span{
 }
 h2{
     font-size: 40px;
+    color: rgba(0, 0, 0, 0.456);
 }
 .button-it{
     background-image: linear-gradient(gold,brown);
@@ -53,4 +54,36 @@ margin-right: 60px;
 }
 .bg-add{
     background-image: url(images/shapes/7.png);
+}
+#center-need{
+text-align: center;
+margin-left: 400px;
+margin-right: 400px;
+}
+.disp-flex{
+    display: flex;
+    margin-top: 70px;
+}
+.mera-box{
+    box-shadow: 10px 10px 40px 25px gray;
+    width: 31.33%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 8px;
+    border-radius: 15px;
+    padding-left: 20px;
+    margin-bottom: 150px;
+    
+
+}
+.mera-box img{
+    width: 95%;
+    
+    padding-top: 14px;
+    
+
+}
+.center2{
+    text-align:left;
+    
 }
