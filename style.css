@@ -1,0 +1,56 @@
+body{
+
+font-family: 'Oswald', sans-serif;
+}
+span{
+    color: coral;
+}
+.bigger-size
+{
+    font-size: 55px;
+    margin-left: 50px;
+    margin-top: 100px;
+    
+}
+h2{
+    font-size: 40px;
+}
+.button-it{
+    background-image: linear-gradient(gold,brown);
+    border-radius: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 10px 25px 10px;
+    
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+#margin101{
+    margin-left: 50px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.margin-it{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.need-margin
+{
+margin-top: 150px;
+margin-right: 60px;
+}
+.top-side{
+    display: flex;
+    margin-bottom: 100px;
+}
+.bg-add{
+    background-image: url(images/shapes/7.png);
+}
