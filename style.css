@@ -87,3 +87,8 @@ margin-right: 400px;
     text-align:left;
     
 }
+.d-chart{
+    display: flex;
+    background-image: url(images/shapes/comrawpixel2339972.jpg);
+
+}
